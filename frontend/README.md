@@ -1,0 +1,1 @@
+This is a basic MERN stack note taking app.
